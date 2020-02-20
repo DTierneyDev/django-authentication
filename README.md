@@ -14,6 +14,8 @@ A blue button should appear to click: *Expose*,
 
 Another blue button should appear to click: *Open Browser*.
 
+alias run='python3 manage.py runserver $IP:8080'
+
 To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
 
 A blue button should appear to click: *Expose*,
